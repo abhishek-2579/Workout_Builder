@@ -1,0 +1,11 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f7fafc;
+  color: #333;
+}
